@@ -1,5 +1,5 @@
 ---
-title: Learn about the world through English
+title: Athletes
 icon: object-group
 order: 2
 category:
